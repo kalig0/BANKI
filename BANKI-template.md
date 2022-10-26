@@ -40,17 +40,17 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 ### Questions
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:*I have friends who are into streaming*
+  - **Action:*worked on OBS plugin with twitter connectivity*
+  - **Result:*currently in test for my friends and once finallized going to push out for all streamers to use*
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:*I was working on two large projects for two separate clients that were at different stages of their lifecycle. One project was in production and the other project was in the implementation phase.*
+  - **Action:*Sent a less experienced colleague to check one project while I went to go check the other one. Prior to leaving I briefed my colleague in on the project and told them what to look out for.*
+  - **Result:*daily calls with my colleague as well as received daily photo reports to review the installation. Both projects end up being financially successful. The tight communication and teamwork is ultimately what allowed it to be so.*
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:*At a previous opportunity I had a direct report on keeping track of our team funding*
+  - **Action:*I explained to them how to use and fill out the template and then left them to finish it.*
+  - **Result:*After a few hours I came to see what the final result was and found that they only partially completed it and had many mistakes. What I did then and with subsequent reports was to have them work on the quote in front of me for 30 minutes so that I could guide them and allow them to ask question. I found that technique brought people up to speed more quickly.*
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
   - **Cause:**
   - **Action:**
